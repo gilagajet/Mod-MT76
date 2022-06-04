@@ -37,7 +37,7 @@ on:
       version_description:
         description: 'Enter version description'     
         required: true
-        default: '升级内容：内核升级，更新应用版本'
+        default: 'Example : Kernel, app or version update'
       cpu_overclock:
         description: 'Overclocked to 1100Mhz (5.10 kernel only)'
         required: false
